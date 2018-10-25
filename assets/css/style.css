@@ -67,3 +67,98 @@
 .faqtitle.title{
 	padding-top: 30px;
 }
+#contact{
+	background: url(https://www.besttechie.com/wp-content/uploads/2016/03/hackathon-people.jpg);
+	background-size: cover;
+}
+
+.colorchange{
+	z-index: 3;
+}
+.label3{
+	color: white;
+}
+
+section#faq {
+  text-align: center;
+  background: #e4972069;
+  min-height: 50vh;
+  width: 100vw;
+}
+
+section#faq a {
+  color: #12567b;
+  font-weight: 200;
+}
+
+.faq-title {
+  text-align: center;
+  font-family: 'Montserrat', 'Helvetica Neue', 'Helvetica', 'Arial', sans-serif;
+  font-weight: 500;
+  font-size: 3em;
+  display: inline-block;
+  margin-bottom: 4vh;
+  width: 100%;
+  padding-top: 30px;
+}
+
+.faq-c {
+  padding: 1em 0;
+}
+
+.faq-t {
+  line-height: 1.5em;
+  font-family: sans-serif;
+  font-weight: 700;
+  padding-right: 0.3em;
+  -webkit-transition: all 200ms;
+  -moz-transition: all 200ms;
+  transition: all 200ms;
+}
+
+.faq-questions {
+  width: 60%;
+  margin: auto;
+}
+
+.faq-questions>p {
+  margin: 1vh 0;
+}
+
+.faq-o {
+  transform: rotate(-45deg);
+  transform-origin: 50% 50%;
+  -ms-transform: rotate(-45deg);
+  -ms-transform-origin: 50% 50%;
+  -webkit-transform: rotate(-45deg);
+  -webkit-transform-origin: 50% 50%;
+  -webkit-transition: all 200ms;
+  -moz-transition: all 200ms;
+  transition: all 200ms;
+}
+
+.faq-q {
+  font-family: 'Montserrat', 'Helvetica Neue', 'Helvetica', 'Arial', sans-serif;
+  cursor: pointer;
+  background-color: white;
+  color: black;
+  font-size: 2em;
+  font-weight: 300;
+  padding: 0.5em;
+}
+
+.faq-a {
+  font-family: 'Montserrat', 'Helvetica Neue', 'Helvetica', 'Arial', sans-serif;
+  margin: 1vh 0;
+  display: none;
+  background-color: white;
+  color: black;
+  margin-top: -2.5vh;
+  font-size: 1.7em;
+  font-weight: 100;
+  padding: 0 1em;
+}
+
+.faq-a a:visited {
+  color: blue;
+}
