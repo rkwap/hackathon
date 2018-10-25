@@ -1,4 +1,48 @@
 #img1{
+	position: relative;
+	top:50%;
+    margin-left: -100px;
 	height: 500px;
-	width: 700px;
+	width: 1000px;
 }
+.whoweare1.text-area{
+	background-color: #b0e2de;
+	position: relative;
+	top: -31px;
+	
+}
+
+/*changing line color to black*/
+.whoweareline.separator{
+	color: black;
+}
+.whoweareline.separator.line-separator:before{
+	border-color: black;
+}
+.whoweareline.separator.line-separator:after{
+	border-color: black;
+}
+/*changed*/
+.section-we-do-2{
+	background-color: #e4972085;
+	top: -62px;
+    padding-bottom: 250px;
+}
+.card{
+	background-color: white;
+	border-radius: 8px;
+    box-shadow: 0 8px 5px 0 rgba(0, 0, 0, 0.14), 0 5px 10px 0 rgba(0, 0, 0, 0.12), 0 3px 2px -2px rgba(0, 0, 0, 0.2);
+    -webkit-box-shadow: 0 8px 5px 0 rgba(0, 0, 0, 0.14), 0 5px 10px 0 rgba(0, 0, 0, 0.12), 0 3px 2px -2px rgba(0, 0, 0, 0.2);
+
+}
+/*changing line color to black*/
+.wedo2.separator{
+	color: black;
+}
+.wedo2.separator.line-separator:before{
+	border-color: black;
+}
+.wedo2.separator.line-separator:after{
+	border-color: black;
+}
+/*changed*/				
