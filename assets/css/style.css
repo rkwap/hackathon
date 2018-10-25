@@ -45,4 +45,25 @@
 .wedo2.separator.line-separator:after{
 	border-color: black;
 }
-/*changed*/				
+/*changed*/	
+
+.sponsors1.section-clients-1{
+	background-color: #fcf8e3;
+	top: -61px;
+	padding-bottom: 250px;
+}			
+.sponsors1.text-area{
+	background-color: #fcf8e3;
+}
+ #faq{
+	background-color: #e4972069;
+	width: 100%;
+	padding: 0px;
+	padding-bottom: 2em;
+}
+.rowfaq.row{
+	padding-left:30px;
+}
+.faqtitle.title{
+	padding-top: 30px;
+}
